@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "llm-c",
+  "version": "1.0.0",
+  "builtin-baseline": "ad3bae57455a3c3ce528fcd47d8e8027d0498add",
+  "homepage": "https://github.com/cenit/llm.c",
+  "description": "LLM training in simple, raw C/CUDA",
+  "dependencies": [
+    "cudnn"
+  ]
+}
